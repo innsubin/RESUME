@@ -22,8 +22,6 @@
 * 딥러닝
 * 블록체인
 
-![linux icon](/KakaoTalk_20210615_110750149_02.jpg)
-
 <img src=KakaoTalk_20210615_110750149_02.jpg width=100 height=200>
 
 
