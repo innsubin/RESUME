@@ -1,4 +1,7 @@
-# RESUME ( L-SB )
+# 한림대학교 소프트웨어융합대학
+
+<img src=subin.jpg height=200 width=200>
+
 
 ## 개인 이력사항
 
